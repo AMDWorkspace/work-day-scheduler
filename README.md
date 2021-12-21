@@ -24,8 +24,8 @@
 - THEN the saved events persist
 
 ## Screenshot
-![screenshot](https://github.com/AMDWorkspace/work-day-scheduler-challenge/blob/main/Assets/photos/work-day-scheduler-screenshot.png)
+![screenshot](https://github.com/AMDWorkspace/work-day-scheduler/blob/main/Assets/photos/work-day-scheduler-screenshot.png)
 
 ## Link to Deployed Application
-https://amdworkspace.github.io/work-day-scheduler-challenge/
+https://amdworkspace.github.io/work-day-scheduler/
 
