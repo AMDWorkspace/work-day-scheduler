@@ -1,0 +1,71 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  color: black;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  color: black;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  padding: 10px;
+  margin: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: lightseagreen;
+}
+
+.lead {
+  padding-top: 10px;
+}
+
+.description{
+  margin: 10px;
+  padding: 10px;
+  white-space: pre-wrap;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid #CEE5F2;
+}
+
+.hour {
+  border-right: 1px solid #CEE5F2;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.past {
+  background-color: red;
+  color: white;
+}
+
+.present {
+  background-color: green;
+  color: white;
+}
+
+.future {
+  background-color: #ffffff;
+}
+
+.saveBtn {
+  background-color: rgba(99, 112, 129, 0.75);
+  border: none;
+  color: #ffffff; 
+}
+
+.saveBtn:hover {
+  background-color: rgba(99, 112, 129, 1);
+}
